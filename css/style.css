@@ -1278,3 +1278,95 @@ footer {
   --stroke-easing: cubic-bezier(.3, 1.5, .5, 1);
   --stroke-delay: .195s;
 }
+
+.card {
+  border-radius: 10px ;
+  text-align: center;
+}
+
+.cardphoto {
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+  height: 250px;
+}
+
+.cardname {
+  padding-top: 15px;
+  font-size: 20px;
+  color: #1d7096;
+}
+
+.cardhr {
+  margin-left: 35px;
+  margin-right: 35px;
+}
+
+.cardprofession {
+  font-size: 16px;
+  text-align: center;
+}
+
+.header {
+  margin: 30px;
+  height: 170px;
+}
+.list-unstyled {
+  padding-left: 0;
+  list-style: none;
+}
+.list-inline li {
+  display: inline-block;
+  padding-right: 10px;
+  padding-left: 10px;
+}
+.social-icons .fa {
+  font-size: 1.4em;
+  line-height: 0px;
+  text-align: center;
+  color: #1d7096;
+  -webkit-transition: all 0.3s ease-in-out;
+  -moz-transition: all 0.3s ease-in-out;
+  -ms-transition: all 0.3s ease-in-out;
+  -o-transition: all 0.3s ease-in-out;
+  transition: all 0.3s ease-in-out;
+}
+.social-icons .fa:hover,
+.social-icons .fa:active {
+  font-size: 2.5em;
+  -webkit-box-shadow: 1px 1px 3px #333;
+  -moz-box-shadow: 1px 1px 3px #333;
+  box-shadow: 1px 1px 3px #333;
+}
+
+@-moz-keyframes fadeIn {
+  0% {
+    transform: translateX(-150px);
+  }
+  100% {
+    transform: translateX(0px);
+  }
+}
+@-webkit-keyframes fadeIn {
+  0% {
+    transform: translateX(-150px);
+  }
+  100% {
+    transform: translateX(0px);
+  }
+}
+@-o-keyframes fadeIn {
+  0% {
+    transform: translateX(-150px);
+  }
+  100% {
+    transform: translateX(0px);
+  }
+}
+@keyframes fadeIn {
+  0% {
+    transform: translateX(-150px);
+  }
+  100% {
+    transform: translateX(0px);
+  }
+}
