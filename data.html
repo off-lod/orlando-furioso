@@ -874,7 +874,8 @@
         <div id="Turtle" class="Modelssection2">
             <h2 class="models-p">RDF Production</h2>
             <p class="models-p">The statements visualized in the conceptual model and the listed in the data description are then translated into a RDF Turtle serialization. The following script does not correspond to the description of the entire domain, but lists the properties related to the letter to Bembo, the portrait by Titian and the autograph manoscript of the <i>Orlando Furioso</i>.</p>
-            <p class="models-p">Each entity has been identified and named with a URI related to the domain of the project, while the properties are translated according to the chosen ontologies. With this formalization, statements can be written to describe the domain. This serialization has been verified thanks to <a href="http://ttl.summerofcode.be">IDLab Turtle Validator</a>.</p>
+            <p class="models-p">Each entity has been identified and named with a URI related to the domain of the project, while the properties are translated according to the chosen ontologies. In addition, values are expressed through authorities (AAT for art historical lexicon, VIAF for people or institutions, Geonames for places). To describe the identity between these values and new entities, the property <i>sameAs</i> of the OWL ontology has been used.</p>
+            <p class="models-p">With this formalization, statements can be written to describe the domain. This serialization has been verified thanks to <a href="http://ttl.summerofcode.be">IDLab Turtle Validator</a>.</p>
             <div class="snippet">
                 <script src="https://gist.github.com/ManueleVeggi/8e6edab640701bbe98e7dee89f71ab7e.js"></script>
             </div>
