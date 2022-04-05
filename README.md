@@ -5,4 +5,4 @@ Final Project for the course "Knowledge Organization and Cultural Heritage" (Pro
 Team members:
 - [Sebastiano Giacomini](mailto:sebastiano.giacomini@studio.unibo.it)
 - [Bianca La Manna](mailto:bianca.lamanna@studio.unibo.it)
-- [Manuele Veggi] (mailto:manuele.veggi@studio.unibo.it)
+- [Manuele Veggi](mailto:manuele.veggi@studio.unibo.it)
