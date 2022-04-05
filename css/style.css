@@ -334,7 +334,11 @@ h3, h4 {
   -moz-box-shadow: 10px 10px 5px #ccc;
   -webkit-box-shadow: 10px 10px 5px #ccc;
   -khtml-box-shadow: 10px 10px 5px #ccc;
+  cursor: pointer;
+  transition: 0.3s;
 }
+
+.mapinmodel:hover {opacity: 0.7;}
 
 #itemssection, #teampresentation {
   padding: 30px;
