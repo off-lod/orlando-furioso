@@ -1,10 +1,10 @@
 Human-Made Object, crm:P102_has_title, Roland furieux
 Human-Made Object, crm:P108_was_produced_by, Jean Bernard Duseigneur
-Human-Made Object, crm:P4_has_time-span, ?
-Human-Made Object, bf:creationDate, 1867
+Human-Made Object, lido:resourceDateTaken, 1867
 Human-Made Object, crm:P33_used_specific_technique, sculpture
 Human-Made Object, crm:P52_has_current_owner, Louvre
 Human-Made Object, crm:P55_has_current_location, Paris
 Human-Made Object, crm:P45_consists_of, bronze
 Human-Made Object, crm:P62_depicts, Orlando
-Human-Made Object, fabio:is_exemplar_of, ?
+Human-Made Object, crm:P3_has_note,	A bronze statue describing Orlando during his madness
+Human-Made Object, crm:P2_has_type,	artefact

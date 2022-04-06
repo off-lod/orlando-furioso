@@ -4,5 +4,7 @@ Human-Made Thing, crm:P4_has_time-span, 1548-1550
 Human-Made Thing, crm:P32_used_general_technique, fresco
 Human-Made Thing, crm:P52_has_current_owner, Pinacoteca Nazionale di Bologna
 Human-Made Thing, crm:P55_has_current_location, Bologna
-Human-Made Thing, crm:P45_consists_of, ?
+Human-Made Thing, crm:P45_consists_of, lime plaster
 Human-Made Thing, crm:P62_depicts, Ruggero
+Human-Made Thing, crm:P3_has_note, A fresco representing Ruggero hosted by Alcina in her castle
+Human-Made Thing, crm:P2_has_type, artefact
