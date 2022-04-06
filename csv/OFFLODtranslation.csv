@@ -1,0 +1,11 @@
+Book, crm:P102_has_title, Orlando furioso in English heroical verse, by Iohn Haringto[n]
+Book, crm:P108_was_produced_by, Ludovico Ariosto
+Book, fabio:has_publication_date, 1591
+Book, fabio:has_publisher, Richard Field
+Book, fabio:has_place_of_publication, London
+Book, crm:P52_has_current_owner, Boston Public Library
+Book, crm:P55_has_current_location, Boston
+Book, crm:P45_consists_of, paper
+Book, crm:P72_has_language, en
+Book, crm:P73_is_translation_of, Orlando Furioso
+Book, crm:P4_has_time-span, ?

@@ -1,0 +1,10 @@
+Book, crm:P102_has_title, Orlando Furioso
+Book, crm:P108_was_produced_by, Ludovico Ariosto
+Book, fabio:has_publication_date, 1516
+Book, fabio:has_publisher, Giovanni Mazocco dal Bondeno
+Book, fabio:has_place_of_publication, Ferrara
+Book, crm:P52_has_current_owner, Biblioteca Nazionale Centrale
+Book, crm:P55_has_current_location, Florence
+Book, crm:P45_consists_of, paper
+Book, crm:P72_has_language, it
+Book, bf:editionStatement, ?
