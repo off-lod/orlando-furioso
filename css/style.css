@@ -1004,7 +1004,12 @@ z-index:100;
 }
 
 footer {
-	background-color: #d7d28e;
+  background-color: #1d7096;
+  color: #fff;
+}
+
+#cc {
+  padding: 10px;
 }
 
 #Data-desc {
