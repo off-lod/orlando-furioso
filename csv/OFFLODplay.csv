@@ -1,5 +1,8 @@
 Play, crm:P102_has_title, Orlando Furioso
-Play, crm:P108_was_produced_by, Luca Ronconi 
-Play, fabio:has_creation_date, 1969
-Play, crm:P72_has_language, it
-Play, crm:P129_is_about, Orlando Furioso
+Play, crm:P108_was_produced_by, Luca Ronconi
+Play, crm:P108_was_produced_by, Edoardo Sanguineti
+Play, prov:wasInfluencedBy, Ariosto's poem 'Orlando Furioso'
+Play, lido:resourceDateTaken, 1969
+Play, crm:P72_has_language, Italian
+Play, crm:P2_type, play
+Play, crm:P3_note, Ronconi's theatre adaptation of the Orlando furiso written by Edorardo Sanguineti
