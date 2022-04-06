@@ -1379,3 +1379,7 @@ footer {
     transform: translateX(0px);
   }
 }
+
+.fa fa-github {
+	color: #333;
+}
