@@ -1240,12 +1240,9 @@ footer {
 .underline {
   width: 140px;
   margin: 16px 0;
-}
-
-.underline {
   --line: #7582c4;
   --color: #1d7096;
-  text-decoration: none;
+  text-decoration: underline;
   color: var(--color);
   position: relative;
 }
