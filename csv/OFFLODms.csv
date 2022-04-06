@@ -1,7 +1,10 @@
-Manuscript, crm:P102_has_title, Ms.S.Mart.353
-Manuscript, crm:P108_was_produced_by, Ludovico Ariosto
-Manuscript, crm:P4_has_time-span, 1501-1600
-Manuscript, crm:P52_has_current_owner, Biblioteca nazionale Vittorio Emanuele III
-Manuscript, crm:P55_has_current_location, Naples
-Manuscirpt, crm:P45_consists_of, paper
-Manuscript, crm:P72_has_language, it
+Manuscript,	crm:P102_has_title,	Ms.S.Mart.353
+Manuscript,	crm:P108_was_produced_by,	Ludovico Ariosto
+Manuscript,	crm:P4_has_time_span,	XVI century
+Manuscript,	fabio:isPortraylOf,	Orlando Furioso
+Manuscript,	crm:P52_has_current_owner,	Biblioteca nazionale Vittorio Emanuele III
+Manuscript,	crm:P55_has_current_location,	Naples
+Manuscript,	crm:P45_consists_of,	paper
+Manuscript,	crm:P72_has_language,	Italian
+Manuscript,	crm:P3_has_note,	An autograph manuscript of the Orlando furioso
+Manuscript,	crm:P2_has_type,	manuscript
