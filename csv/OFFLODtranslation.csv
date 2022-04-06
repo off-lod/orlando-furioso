@@ -8,5 +8,5 @@ Book,	crm:P55_has_current_location, Boston
 Book,	crm:P45_consists_of,	paper
 Book,	crm:P72_has_language,	English
 Book,	crm:P73_is_translation_of,	Orlando Furioso
-Book,	crm:P3_has_note,	Orlando Furioso's translation by the English writer Johan Harington"," edited in London (1591).
+Book,	crm:P3_has_note,	"Orlando Furioso's translation by the English writer Johan Harington, edited in London (1591)."
 Book,	crm:P2_has_type,	printed book
