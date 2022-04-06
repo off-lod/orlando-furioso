@@ -136,7 +136,7 @@ body {
 p {
 line-height: 30px;
 margin: 20px;
-text-align: justify
+text-align: justify;
 }
 
 /* Container needed to position the button. Adjust the width as needed */
