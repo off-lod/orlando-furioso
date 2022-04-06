@@ -1,11 +1,14 @@
-Essay, crm:P102_has_title, Lezioni americane : sei proposte per il prossimo millennio
-Essay, crm:P108_was_produced_by, Italo Calvino
-Essay, fabio:has_publication_date, 1988
-Essay, bf:creationDate, 1988
-Essay, fabio:has_publisher, Garzanti
-Essay, fabio:has_place_of_publication, Milan 
-Essay, crm:P52_has_current_owner, Biblioteca Salaborsa
-Essay, crm:P55_has_current_location, Bologna
-Essay, crm:P45_consists_of, paper
-Essay, crm:P72_has_language, it
-Essay, crm:P67_refers_to, Orlando Furioso
+Essay,	crm:P102_has_title,	Lezioni americane : sei proposte per il prossimo millennio
+Essay,	crm:P108_was_produced_by,	Italo Calvino
+Essay,	lido:resourceDateTaken,	1985
+Essay, fabio:hasPublicationDate,	1988
+Essay,	fabio:has_publisher,	Garzanti
+Essay,	fabio:has_place_of_publication,	Milan
+Essay,	crm:P52_has_current_owner,	Biblioteca Salaborsa
+Essay,	crm:P55_has_current_location,	Bologna
+Essay,	crm:P45_consists_of,	paper
+Essay,	crm:P103_was_intended_for,	Harvard Lectures
+Essay,	crm:P72_has_language,	Italian
+Essay,	cito:cites,	Orlando Furioso
+Essay,	crm:P3_has_note,	A collection of essays of Literary criticism devoted to the description of the features of the literature of the 21st century
+Essay,	crm:P2_has_type,	printed book

@@ -1,10 +1,14 @@
-Book, crm:P102_has_title, Orlando Furioso
-Book, crm:P108_was_produced_by, Ludovico Ariosto
-Book, fabio:has_publication_date, 1516
-Book, fabio:has_publisher, Giovanni Mazocco dal Bondeno
-Book, fabio:has_place_of_publication, Ferrara
-Book, crm:P52_has_current_owner, Biblioteca Nazionale Centrale
-Book, crm:P55_has_current_location, Florence
-Book, crm:P45_consists_of, paper
-Book, crm:P72_has_language, it
-Book, bf:editionStatement, ?
+Book,	crm:P102_has_title,	Orlando Furioso
+Book,	crm:P108_was_produced_by,	Ludovico Ariosto
+Book,	lido:resourceDateTaken,	1516
+Book,	fabio:hasPublisher,	Giovanni Mazocco dal Bondeno
+Book,	fabio:hasPlaceOfPublication,	Ferrara
+Book,	crm:P52_has_current_owner,	Biblioteca Nazionale Centrale
+Book,	crm:P55_has_current_location,	Florence
+Book,	crm:P45_consists_of,	paper
+Book,	crm:P72_has_language,	Italian
+Book,	fabio:has_examplar,	Manuscript
+Book,	bf:editionStatement,	First edition
+Book,	fabio:isPortrayalOf,	Orlando Furioso
+Book,	crm:P3_has_note	Orlando Furioso's editio princeps, edited in Ferrara (1516)
+Book,	crm:P2_has_type,	printed book
