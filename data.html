@@ -859,15 +859,36 @@
             </div>
         </div>
         <div id="Turtle" class="Modelssection2">
+            <h2 class="models-p">Resource identification</h2>
+            <p class="models-p">Before writing the Turtle serialization, each entity needs to be identified through a unique URI taken from the domain of the project. In the code beneath, this identifier is shortened through the declaration <i>@base</i> allowed by Turtle syntax. The following section do not correspond to the description of the entire domain, but lists the properties related to the letter to Bembo, the portrait by Titian and the autograph manoscript of the <i>Orlando Furioso</i>.</p>
+            <h3 class="models-p">Work and Items</h3>
+            <div class="models-p">
+            <ul>
+                <li><i>Orlando furioso</i>: https://off-lod.github.io/orlando-furioso/work/orlandoFurioso</li>
+                <li>Manuscript: https://off-lod.github.io/orlando-furioso/item/ms</li>
+                <li>Letter: https://off-lod.github.io/orlando-furioso/item/letterBembo</li>
+                <li>Portrait: https://off-lod.github.io/orlando-furioso/item/portraitTitian</li>
+            </ul>
+            </div>
+            <h3 class="models-p">People and Places</h3>
+            <div class="models-p">
+            <ul>
+                <li>Ludovico Ariosto: https://off-lod.github.io/orlando-furioso/person/ariosto</li>
+                <li>Pietro Bembo: https://off-lod.github.io/orlando-furioso/person/bembo</li>
+                <li>Tiziano Vecellio: https://off-lod.github.io/orlando-furioso/person/titian</li>
+                <li>Ferrara: https://off-lod.github.io/orlando-furioso/place/ferrara</li>
+            </ul>
+            </div>
+        </div>
+        <div id="Turtle" class="Modelssection1">
             <h2 class="models-p">RDF Production</h2>
-            <p class="models-p">The statements visualized in the conceptual model and the listed in the data description are then translated into a RDF Turtle serialization. The following script does not correspond to the description of the entire domain, but lists the properties related to the letter to Bembo, the portrait by Titian and the autograph manoscript of the <i>Orlando Furioso</i>.</p>
-            <p class="models-p">Each entity has been identified and named with a URI related to the domain of the project, while the properties are translated according to the chosen ontologies. In addition, values are expressed through authorities (AAT for art historical lexicon, VIAF for people or institutions, Geonames for places). To describe the identity between these values and new entities, the property <i>sameAs</i> of the OWL ontology has been used.</p>
+            <p class="models-p">The statements visualized in the conceptual model and the listed in the data description are then translated into a RDF Turtle serialization. Each entity has been identified and named with a URI related to the domain of the project, while the properties are translated according to the chosen ontologies. In addition, values are expressed through authorities (AAT for art historical lexicon, VIAF for people or institutions, Geonames for places). To describe the identity between these values and new entities, the property <i>sameAs</i> of the OWL ontology has been used.</p>
             <p class="models-p">With this formalization, statements can be written to describe the domain. This serialization has been verified thanks to <a href="http://ttl.summerofcode.be">IDLab Turtle Validator</a>.</p>
             <div class="snippet">
                 <script src="https://gist.github.com/ManueleVeggi/8e6edab640701bbe98e7dee89f71ab7e.js"></script>
             </div>
         </div>
-        <div id="RDFVisualization" class="Modelssection1">
+        <div id="RDFVisualization" class="Modelssection2">
             <h2 class="models-p">RDF Visualization</h2>
             <p class="models-p">After the serialization, the domain can be finally visualized as a data model. The network of entities and properties is automatically drawn by <a href="https://www.ldf.fi/service/rdf-grapher">RDF Grapher</a> starting from the Turtle file.</p>
             <a href="images/rdf-grapher.png" target="blank"><img src="images/rdf-grapher.png" class="mapinmodel" alt="RDF Visualization"></a>
