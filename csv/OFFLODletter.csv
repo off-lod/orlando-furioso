@@ -1,7 +1,10 @@
 Letter, crm:P108_was_produced_by, Ludovico Ariosto
-Letter, fabio:has_place_of_publication, Ferrara
-Letter, crm:P52_has_current_owner, Archivio di Stato
+Letter, schema::locationCreated, Ferrara
+Letter, crm:P52_has_current_owner, Archivio di Stato di Modena
 Letter, crm:P55_has_current_location, Modena
-Letter, crm:P72_has_language, it
-Letter, bf:creationDate, 02/23/1531
+Letter, crm:P72_has_language, Italian
+Letter, lido:resourceDateTaken, 02/23/1531
 Letter, crm:P67_refers_to, Orlando Furioso
+Letter, crm:P3_note, A letter attesting the epistolary relationship between Ludovico Ariosto and Pietro Bembo
+Letteer, crm:P2_has_type, letter
+Letter, schema::participant:recipient, Pietro Bembo
